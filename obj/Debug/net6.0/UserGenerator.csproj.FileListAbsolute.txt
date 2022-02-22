@@ -1,0 +1,15 @@
+D:\GitHub\UserGenerator\bin\Debug\net6.0\UserGenerator.exe
+D:\GitHub\UserGenerator\bin\Debug\net6.0\UserGenerator.deps.json
+D:\GitHub\UserGenerator\bin\Debug\net6.0\UserGenerator.runtimeconfig.json
+D:\GitHub\UserGenerator\bin\Debug\net6.0\UserGenerator.dll
+D:\GitHub\UserGenerator\bin\Debug\net6.0\ref\UserGenerator.dll
+D:\GitHub\UserGenerator\bin\Debug\net6.0\UserGenerator.pdb
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.csproj.AssemblyReference.cache
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.AssemblyInfoInputs.cache
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.AssemblyInfo.cs
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.csproj.CoreCompileInputs.cache
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.dll
+D:\GitHub\UserGenerator\obj\Debug\net6.0\ref\UserGenerator.dll
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.pdb
+D:\GitHub\UserGenerator\obj\Debug\net6.0\UserGenerator.genruntimeconfig.cache
